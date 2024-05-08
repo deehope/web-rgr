@@ -17,7 +17,12 @@ header {
     padding-bottom: 10px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
-
+h1 {
+    text-align: center;
+    color: rgb(188, 34, 34);
+    text-shadow: 2px 2px 4px rgba(195, 1, 1, 0.5);
+    font-size: 40px;
+}
 main {
     background-color: rgb(242, 242, 242);
     width: 100%;
@@ -31,7 +36,6 @@ footer {
     color: rgb(159, 159, 159);
     text-align: right;
     padding: 10px 0;
-    position: fixed;
     width: 100%;
     bottom: 0; 
 }
